@@ -1,0 +1,1 @@
+MediaPipe Tasks Vision 1.2.2 (@mediapipe/tasks-vision) and the Face Landmarker model (face_landmarker.task, float16/1), Copyright Google LLC, Apache License 2.0 (LICENSE beside this file). Unmodified. Used only in this page to find the face in a selfie; the photo never leaves the device.
